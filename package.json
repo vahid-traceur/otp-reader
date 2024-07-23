@@ -1,0 +1,25 @@
+{
+  "name": "otp-reader",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library to read OTP codes using the WebOTP API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/otp-reader.git"
+  },
+  "keywords": [
+    "otp",
+    "webotp",
+    "javascript",
+    "library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/otp-reader/issues"
+  },
+  "homepage": "https://github.com/yourusername/otp-reader#readme"
+}
