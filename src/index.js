@@ -4,6 +4,8 @@ class OTPReader {
   }
 
   getCode() {
+    console.log('vahid')
+    
     return new Promise((resolve, reject) => {
       if (!this.hasOTPCredential) {
         return reject(new Error('WebOTP API not supported on this browser.'));
